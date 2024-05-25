@@ -1,4 +1,4 @@
-# Gemini-Powered-Application
+# Gemini-Powered-AI-Application
 AI Chatbot
 
 app.py can be used for text prompts.
